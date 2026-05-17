@@ -55,7 +55,7 @@
                                     "bpPath": "/Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat.PrimalItemConsumable_RawPrimeMeat'",
                                     "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
-                                    "maxQuantityInTerminal": 0
+                                    "maxQuantityInTerminal": 1000
                                 }
                             ]
                         }
